@@ -1,4 +1,4 @@
-This is a project for create Bookstore App. 
+This is a project for create Bookstore App using with Next and Hono. 
 
 ## Getting Started
 
