@@ -2,7 +2,9 @@ This is a project for create Bookstore App using with Next and Hono.
 
 ## Getting Started
 
-First, run several command here:
+First, replace DATABASE_URL and DIRECT_DB_URL with connection string from database providers.
+
+Second, run several command here:
 
 ```bash
 # install dependencies
